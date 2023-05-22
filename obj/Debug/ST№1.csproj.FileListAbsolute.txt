@@ -1,0 +1,10 @@
+D:\languages\C#\ST№1\bin\Debug\ST№1.exe.config
+D:\languages\C#\ST№1\bin\Debug\ST№1.exe
+D:\languages\C#\ST№1\bin\Debug\ST№1.pdb
+D:\languages\C#\ST№1\obj\Debug\ST№1.csproj.AssemblyReference.cache
+D:\languages\C#\ST№1\obj\Debug\ST_1.Form1.resources
+D:\languages\C#\ST№1\obj\Debug\ST_1.Properties.Resources.resources
+D:\languages\C#\ST№1\obj\Debug\ST№1.csproj.GenerateResource.cache
+D:\languages\C#\ST№1\obj\Debug\ST№1.csproj.CoreCompileInputs.cache
+D:\languages\C#\ST№1\obj\Debug\ST№1.exe
+D:\languages\C#\ST№1\obj\Debug\ST№1.pdb

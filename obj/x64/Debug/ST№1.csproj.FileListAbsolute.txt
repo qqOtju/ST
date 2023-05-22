@@ -1,0 +1,13 @@
+D:\languages\C#\ST№1\bin\x64\Debug\ST№1.exe.config
+D:\languages\C#\ST№1\bin\x64\Debug\ST№1.exe
+D:\languages\C#\ST№1\bin\x64\Debug\ST№1.pdb
+D:\languages\C#\ST№1\bin\x64\Debug\libLLVM.dll
+D:\languages\C#\ST№1\bin\x64\Debug\LLVMSharp.dll
+D:\languages\C#\ST№1\obj\x64\Debug\ST№1.csproj.AssemblyReference.cache
+D:\languages\C#\ST№1\obj\x64\Debug\ST_1.Form1.resources
+D:\languages\C#\ST№1\obj\x64\Debug\ST_1.Properties.Resources.resources
+D:\languages\C#\ST№1\obj\x64\Debug\ST№1.csproj.GenerateResource.cache
+D:\languages\C#\ST№1\obj\x64\Debug\ST№1.csproj.CoreCompileInputs.cache
+D:\languages\C#\ST№1\obj\x64\Debug\ST№1.csproj.CopyComplete
+D:\languages\C#\ST№1\obj\x64\Debug\ST№1.exe
+D:\languages\C#\ST№1\obj\x64\Debug\ST№1.pdb
